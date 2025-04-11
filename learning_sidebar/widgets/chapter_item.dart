@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; // JavaScript 세부 항목 위젯
 
 class ChapterItem extends StatelessWidget {
   final double top;

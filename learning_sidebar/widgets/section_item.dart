@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; // DOM, 비동기 등 확장형 섹션 위젯
 
 class SectionItem extends StatelessWidget {
   final double top;
